@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Semana4
 build_property.RootNamespace = Semana4
-build_property.ProjectDir = C:\Users\Sebastian\Desktop\Semana-4-main\Semana4\
+build_property.ProjectDir = C:\Users\Sebastian\Desktop\Semana 8\Semana4\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Sebastian\Desktop\Semana-4-main\Semana4
+build_property.MSBuildProjectDirectory = C:\Users\Sebastian\Desktop\Semana 8\Semana4
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/Home/Index.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/Home/Privacy.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/Model/Create.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/Model/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/Model/Delete.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/Model/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/Model/Details.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/Model/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/Model/Edit.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/Model/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/Model/Index.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/Model/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/Shared/Error.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/_ViewImports.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/_ViewStart.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sebastian/Desktop/Semana-4-main/Semana4/Views/Shared/_Layout.cshtml]
+[C:/Users/Sebastian/Desktop/Semana 8/Semana4/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5b8gbq7cc7
